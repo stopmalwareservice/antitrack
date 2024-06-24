@@ -1,74 +1,72 @@
-## Adguard Filter List
+# Microsoft
+0.0.0.0 static.edge.microsoftapp.net
+0.0.0.0 gateway.bingviz.microsoftapp.net
+0.0.0.0 telem-edge.smartscreen.microsoft.com
+0.0.0.0 edge.microsoft.com
+0.0.0.0 config.edge.skype.com
 
-## Microsoft
-||static.edge.microsoftapp.net^
-||gateway.bingviz.microsoftapp.net^
-||telem-edge.smartscreen.microsoft.com^
-||edge.microsoft.com^
-||config.edge.skype.com^
+# Bing
+0.0.0.0 doubleclick.net
 
-## Bing
-||doubleclick.net^
+# Mail.ru
+0.0.0.0 fmdata.imgsmail.ru
+0.0.0.0 stat.radar.imgsmail.ru
+0.0.0.0 xray.mail.ru
+0.0.0.0 rs.mail.ru
+0.0.0.0 an.mail.ru
+0.0.0.0 cspreport.mail.ru
+0.0.0.0 r0.mail.ru
+0.0.0.0 r.mail.ru
+0.0.0.0 promo.mail.ru
+0.0.0.0 r3.mail.ru
 
-## Mail.ru
-||fmdata.imgsmail.ru^
-||stat.radar.imgsmail.ru^
-||xray.mail.ru^
-||rs.mail.ru^
-||an.mail.ru^
-||cspreport.mail.ru^
-||r0.mail.ru^
-||r.mail.ru^
-||promo.mail.ru^
-||r3.mail.ru^
+# OpenAI
+0.0.0.0 firebaseremoteconfig.googleapis.com
 
-## OpenAI
-||firebaseremoteconfig.googleapis.com^
+# Yandex
+0.0.0.0 avatars.mds.yandex.net
+0.0.0.0 mc.yandex.net
+0.0.0.0 sba.yandex.net
+0.0.0.0 static-mon.yandex.net
+0.0.0.0 api.lbs.yandex.ru
+0.0.0.0 divpro-yandex.s3.yandex.ru
+0.0.0.0 api.browser.yandex.ru
+0.0.0.0 api.divpro.yandex.ru
+0.0.0.0 suggest.sso.dzen.ru
+0.0.0.0 suggest.dzen.ru
+0.0.0.0 adfstat.yandex.ru
 
-## Yandex
-||avatars.mds.yandex.net^
-||mc.yandex.net^
-||sba.yandex.net^
-||static-mon.yandex.net^
-||api.lbs.yandex.ru^
-||divpro-yandex.s3.yandex.ru^
-||api.browser.yandex.ru^
-||api.divpro.yandex.ru^
-||suggest.sso.dzen.ru^
-||suggest.dzen.ru^
-||adfstat.yandex.ru^
+# Rambler
+0.0.0.0 kraken.rambler.ru
+0.0.0.0 trafffgen.rambler.ru
+0.0.0.0 rcmjs.rambler.ru
+0.0.0.0 rcm-tr.rambler.ru
 
-## Rambler
-||kraken.rambler.ru^
-||trafffgen.rambler.ru^
-||rcmjs.rambler.ru^
-||rcm-tr.rambler.ru^
-
-## Other
-||region1.app-measurement.com^
-||byteoversea.com^
-||advertising-api-eu.amazon.com^
-||target.vk.ru^
-||stat.tildacdn.com^
-||in.appcenter.ms^
-||act.flat-ads.com^
-||collector.github.com^
-||rebus.rustore.ru^
-||stats.rustore.ru^
-||portal.mail.ru^
-||st.top100.ru^
-||tms.dmp.wi-fi.ru^
-||visor.sberbank.ru^
-||target.my.com^
-||ads.facebook.com^
-||sentry.adtech.vk.team^
-||ads.prod.webservices.mozgcp.net^
-||backapi.rustore.ru^
-||cdn-b.videopool.h5xyz.com^
-||vkpns.rustore.ru^
-||ad.*.xiaomi.com^
-||apiok.net^
-||tracker-api.my.com^
-||digitaltarget.ru^
-||ad-tech.ru^
-||ingest.sentry.io^
+# Other
+0.0.0.0 region1.app-measurement.com
+0.0.0.0 byteoversea.com
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 target.vk.ru
+0.0.0.0 stat.tildacdn.com
+0.0.0.0 in.appcenter.ms
+0.0.0.0 act.flat-ads.com
+0.0.0.0 collector.github.com
+0.0.0.0 rebus.rustore.ru
+0.0.0.0 stats.rustore.ru
+0.0.0.0 portal.mail.ru
+0.0.0.0 st.top100.ru
+0.0.0.0 tms.dmp.wi-fi.ru
+0.0.0.0 visor.sberbank.ru
+0.0.0.0 target.my.com
+0.0.0.0 ads.facebook.com
+0.0.0.0 sentry.adtech.vk.team
+0.0.0.0 ads.prod.webservices.mozgcp.net
+0.0.0.0 backapi.rustore.ru
+0.0.0.0 cdn-b.videopool.h5xyz.com
+0.0.0.0 vkpns.rustore.ru
+0.0.0.0 *.ad.*.xiaomi.com
+0.0.0.0 *.apiok.net
+0.0.0.0 *.tracker-api.my.com
+0.0.0.0 *.digitaltarget.ru
+0.0.0.0 *.ad-tech.ru
+0.0.0.0 *.ingest.sentry.io
