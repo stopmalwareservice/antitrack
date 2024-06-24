@@ -4,11 +4,7 @@
 0.0.0.0 telem-edge.smartscreen.microsoft.com
 0.0.0.0 edge.microsoft.com
 0.0.0.0 config.edge.skype.com
-
-# Bing
 0.0.0.0 doubleclick.net
-
-# Mail.ru
 0.0.0.0 fmdata.imgsmail.ru
 0.0.0.0 stat.radar.imgsmail.ru
 0.0.0.0 xray.mail.ru
@@ -19,11 +15,7 @@
 0.0.0.0 r.mail.ru
 0.0.0.0 promo.mail.ru
 0.0.0.0 r3.mail.ru
-
-# OpenAI
 0.0.0.0 firebaseremoteconfig.googleapis.com
-
-# Yandex
 0.0.0.0 avatars.mds.yandex.net
 0.0.0.0 mc.yandex.net
 0.0.0.0 sba.yandex.net
@@ -35,14 +27,10 @@
 0.0.0.0 suggest.sso.dzen.ru
 0.0.0.0 suggest.dzen.ru
 0.0.0.0 adfstat.yandex.ru
-
-# Rambler
 0.0.0.0 kraken.rambler.ru
 0.0.0.0 trafffgen.rambler.ru
 0.0.0.0 rcmjs.rambler.ru
 0.0.0.0 rcm-tr.rambler.ru
-
-# Other
 0.0.0.0 region1.app-measurement.com
 0.0.0.0 byteoversea.com
 0.0.0.0 advertising-api-eu.amazon.com
