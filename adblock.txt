@@ -52,9 +52,12 @@
 0.0.0.0 backapi.rustore.ru
 0.0.0.0 cdn-b.videopool.h5xyz.com
 0.0.0.0 vkpns.rustore.ru
-0.0.0.0 *.ad.*.xiaomi.com
+0.0.0.0 .ad.*.xiaomi.com
 0.0.0.0 *.apiok.net
 0.0.0.0 *.tracker-api.my.com
 0.0.0.0 *.digitaltarget.ru
 0.0.0.0 *.ad-tech.ru
 0.0.0.0 ingest.sentry.io
+0.0.0.0 ip4.tracker-api.my.com
+0.0.0.0 ts.tracker-api.my.com
+0.0.0.0 api.browser.yandex.net
