@@ -69,4 +69,4 @@
 0.0.0.0 *.tracker-api.my.com
 0.0.0.0 *.digitaltarget.ru
 0.0.0.0 *.ad-tech.ru
-0.0.0.0 *.ingest.sentry.io
+0.0.0.0 ingest.sentry.io
