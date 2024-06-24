@@ -23,7 +23,7 @@
 ||r3.mail.ru^
 
 ## OpenAI
-||firebaseremoteconfig.OpenAIapis.com^
+||firebaseremoteconfig.googleapis.com^
 
 ## Yandex
 ||avatars.mds.yandex.net^
